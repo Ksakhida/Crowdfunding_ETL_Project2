@@ -1,7 +1,7 @@
 # Crowdfunding ETL
 
 ## Contributors
-This project is a collaborative effort by Kinjal Sangani and Elizabeth Vandergrift, who are responsible for the code and data analysis.
+This project is a collaborative effort by Kinjal Sakhida and Elizabeth Vandergrift, who are responsible for the code and data analysis.
 
 ## Overview
 
