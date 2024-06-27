@@ -68,13 +68,20 @@ Using two methods for extracting and transforming data from the `contacts.xlsx` 
     - `category.csv`: Exported data from the category DataFrame.
     - `subcategory.csv`: Exported data from the subcategory DataFrame.
     - `campaign.csv`: Exported data from the campaign DataFrame.
-- **images
+      
+- ****Images**:
     - PNG Image Files: Displays the tables being well populated in the table schema in Postgres.
+      
 - **crowdfunding_db_schema_display_tables**: SQL database containing the crowdfunding data.
+  
 - **crowdfunding_db_schema**: SQL database schema.
+  
 - **QuickDBD-export(1)**: Image of the database diagram.
+  
 - **QuickDBD-export**: Schema code.
+  
 - **ETL_Mini_Project_Starter_Code_Final_Notebook.ipynb**: Jupyter Notebook containing the ETL code.
+  
 - **README.md**: This file.
 
 ## Conclusion
