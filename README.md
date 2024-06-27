@@ -69,7 +69,7 @@ Using two methods for extracting and transforming data from the `contacts.xlsx` 
     - `subcategory.csv`: Exported data from the subcategory DataFrame.
     - `campaign.csv`: Exported data from the campaign DataFrame.
       
-- ****Images**:
+- **Images**:
     - PNG Image Files: Displays the tables being well populated in the table schema in Postgres.
       
 - **crowdfunding_db_schema_display_tables**: SQL database containing the crowdfunding data.
